@@ -34,3 +34,11 @@ body {
 	padding: 20px;
 	text-align: center;
 }
+
+.top-banner {
+	background-color:whitesmoke;
+	color:black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
